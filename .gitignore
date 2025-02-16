@@ -1,0 +1,19 @@
+#Ignore System files
+.DS_Store
+Thumbs.db
+
+#Ignore dependency folders
+node_modules/
+vendor/
+
+#Ignore compiled files
+*.class
+*.o
+*.exe
+
+#Ignore logs and temp files
+*.log
+*.tmp
+
+#Ignore environment files
+.env
